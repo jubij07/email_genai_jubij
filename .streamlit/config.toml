@@ -1,0 +1,10 @@
+
+[theme]
+base="dark"
+primaryColor="#6366f1"
+backgroundColor="#1e1e2f"
+secondaryBackgroundColor="#2c2c3c"
+textColor="#ffffff"
+
+[server]
+faviconPath = "assets/favicon.ico"  # Path to your favicon file
